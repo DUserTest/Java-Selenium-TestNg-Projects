@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Blaze Demo Automation Test Suite">
+
+    <listeners>
+        <listener class-name="com.training.ui.extentreport.ExtentReporterNG" />
+    </listeners>
+
+    <test name="Blaze Demo Site Test">
+        <classes>
+            <class name="com.training.ui.pages.HomeTest"></class>
+            <class name="com.training.ui.pages.FindFlightTest"></class>
+            <class name="com.training.ui.pages.BookFlightTest"></class>
+            <class name="com.training.ui.pages.BookingConfirmTest"></class>
+        </classes>
+    </test>
+</suite>

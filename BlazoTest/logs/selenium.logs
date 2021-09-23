@@ -1,0 +1,18 @@
+16:08:10,588 DEBUG com.training.portal<strong>{1}</strong>:30 - Expected Title: BlazeDemo and Actual Title: BlazeDemo are matching 
+16:08:10,592  INFO com.training.portal<strong>{1}</strong>:31 - Expected Title: BlazeDemo and Actual Title: BlazeDemo are matching 
+16:08:11,327 DEBUG com.training.ui.pages.FindFlightTest<strong>{1}</strong>:26 - Flight Search
+16:08:11,327  INFO com.training.ui.pages.FindFlightTest<strong>{1}</strong>:27 - Flight Search
+16:08:13,108 DEBUG com.training.ui.pages.BookFlightTest<strong>{1}</strong>:25 - Book Flight
+16:08:13,108  INFO com.training.ui.pages.BookFlightTest<strong>{1}</strong>:26 - Book Flight
+16:08:13,158 DEBUG com.training.ui.pages.BookingConfirmTest<strong>{1}</strong>:25 - Flight Booking Confirmed
+16:08:13,158  INFO com.training.ui.pages.BookingConfirmTest<strong>{1}</strong>:26 - Flight Booking Confirmed
+16:08:14,022 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:08:14,022 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+16:08:14,039 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:08:14,040 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:08:14,040 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/dilendra.barman/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:08:14,233 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+16:08:14,234 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+16:08:14,234 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:08:14,234 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:08:14,235 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/dilendra.barman/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
